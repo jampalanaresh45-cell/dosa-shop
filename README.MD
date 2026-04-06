@@ -5,7 +5,12 @@
 * light oil
 
 ## karam dosa
-Dosa Batter
+* Batter
+* Masala
+* oil
 
-## Ghee karam
-* Dosa batter
+## Ghee Dosa
+* Dry fruits
+* Butter
+* onions    
+
