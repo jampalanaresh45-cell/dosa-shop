@@ -5,4 +5,15 @@
 * light oil
 
 ## karam dosa
-Dosa Batter
+* Dosa Batter
+* karam
+* oil
+* Erra karam
+
+## Egg dosa
+* Dosa batter
+* 1/2 eggs and karam
+
+## Dosa karam
+* Dosa Batter
+* Mushroom Masala
