@@ -13,4 +13,5 @@
 * Dry fruits
 * Butter
 * onions    
+* Ghee
 
